@@ -1,3 +1,0 @@
-﻿  Source.cpp
-C:\Users\Nikita\source\repos\lab 3 ОS\lab 3 ОS\Source.cpp(103,61): warning C4312: приведение типов: преобразование из "int" в "LPVOID" большего размера
-  lab 3 ОS.vcxproj -> C:\Users\Nikita\source\repos\lab 3 ОS\x64\Debug\lab 3 ОS.exe
